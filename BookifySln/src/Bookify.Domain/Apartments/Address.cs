@@ -2,7 +2,7 @@
 
 public record Address(
     string Country,
-    string State,
+    string Region,
     string ZipCode,
     string City,
     string Street);
