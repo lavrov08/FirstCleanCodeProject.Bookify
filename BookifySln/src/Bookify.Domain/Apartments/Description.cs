@@ -1,3 +1,3 @@
 ﻿namespace Bookify.Domain.Apartments;
 
-public record class Description(string description);
+public record Description(string Value);
